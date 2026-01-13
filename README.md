@@ -33,7 +33,7 @@
 
 ## 📌 What I'm working on
 
-- 🎮 A desktop music player with **Tauri + Svelte** (x)
+- 🎮 A desktop music player with **Tauri + Svelte** [x]
 - 💬 A real-time chat app with authentication and WebSocket
 - 🌍 Personal portfolio & blog [coming soon]
 - 🧠 Learning **architecture patterns** like Strategy, Command, State, Observer
