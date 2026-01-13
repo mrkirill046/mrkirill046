@@ -43,8 +43,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrkirill046&show_icons=true&theme=tokyonight&hide=issues&hide_title=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrkirill046&layout=compact&theme=tokyonight&hide=html" alt="Top Languages" />
+  <img src="https://github-profile-trophy-liard-ten.vercel.app/api?username=mrkirill046&show_icons=true&theme=tokyonight&hide=issues&hide_title=true" alt="GitHub Stats" />
+  <img src="https://github-profile-trophy-liard-ten.vercel.app/api/top-langs/?username=mrkirill046&layout=compact&theme=tokyonight&hide=html" alt="Top Languages" />
 </p>
 
 ---
