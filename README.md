@@ -43,6 +43,15 @@
 
 ---
 
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://test-badges.vercel.app/api?username=mrkirill046&show_icons=true&theme=tokyonight&hide=issues&hide_title=true" alt="GitHub Stats" />
+  <img src="https://test-badges.vercel.app/api/top-langs/?username=mrkirill046&layout=compact&theme=tokyonight&hide=html" alt="Top Languages" />
+</p>
+
+---
+
 ## 🌐 Let's connect
 
 - 📫 Discord: `kazuha046`
