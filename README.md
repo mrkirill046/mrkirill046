@@ -25,7 +25,7 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PrismaORM](https://img.shields.io/badge/Prisma-00C58E?style=for-the-badge&logo=prisma&logoColor=white)
-![Kafka]()
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
 ![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
 ![Tauri](https://img.shields.io/badge/Tauri-F7DF1E?style=for-the-badge&logo=tauri&logoColor=black)
