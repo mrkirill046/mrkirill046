@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I'm Kirill</h1>
 
 <p align="center">
-  <em>Fullstack Developer • Future IT student in Europe • Coding my way through the world</em>
+  <em>Fullstack Developer • Coding my way through the world</em>
 </p>
 
 ---
