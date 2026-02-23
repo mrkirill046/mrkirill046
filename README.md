@@ -61,7 +61,7 @@
 
 ## 🎯 Goals
 
-- 🎓 Move to Europe and study IT professionally
+- 🎓 Leave the Russia and work IT professionally
 - 🧰 Build a solid portfolio of fullstack apps
 - 🗣️ Reach fluent English level
 - 📐 Master system design & scalable architecture
